@@ -1,0 +1,10 @@
+{
+  "dodozik.la_zaza_du_quartier": {
+    "category": "record",
+    "sounds": [{ "name": "dodozik/la_zaza_du_quartier", "stream": true }]
+  },
+  "dodozik.dodolinotte": {
+    "category": "record",
+    "sounds": [{ "name": "dodozik/dodolinotte", "stream": true }]
+  }
+}
