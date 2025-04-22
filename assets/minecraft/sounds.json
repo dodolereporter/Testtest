@@ -1,22 +1,22 @@
 ﻿{
-    "dodozik.minia_vs_sfr_la_guerre_des_fils":  {
-                                                    "sounds":  [
-                                                                   {
-                                                                       "name":  "dodozik/minia_vs_sfr_la_guerre_des_fils",
-                                                                       "stream":  true
-                                                                   }
-                                                               ],
-                                                    "category":  "record"
-                                                },
-    "dodozik.la_revanche_de_mika":  {
-                                        "sounds":  [
-                                                       {
-                                                           "name":  "dodozik/la_revanche_de_mika",
-                                                           "stream":  true
-                                                       }
-                                                   ],
-                                        "category":  "record"
-                                    },
+    "dodozik.alban_le_gitan":  {
+                                   "sounds":  [
+                                                  {
+                                                      "name":  "dodozik/alban_le_gitan",
+                                                      "stream":  true
+                                                  }
+                                              ],
+                                   "category":  "record"
+                               },
+    "dodozik.over_la_tigresse":  {
+                                     "sounds":  [
+                                                    {
+                                                        "name":  "dodozik/over_la_tigresse",
+                                                        "stream":  true
+                                                    }
+                                                ],
+                                     "category":  "record"
+                                 },
     "dodozik.la_zaza_de_francky":  {
                                        "sounds":  [
                                                       {
@@ -26,33 +26,6 @@
                                                   ],
                                        "category":  "record"
                                    },
-    "dodozik.chevalier_kakoukakou_v2":  {
-                                            "sounds":  [
-                                                           {
-                                                               "name":  "dodozik/chevalier_kakoukakou_v2",
-                                                               "stream":  true
-                                                           }
-                                                       ],
-                                            "category":  "record"
-                                        },
-    "dodozik.zaza_la_trans":  {
-                                  "sounds":  [
-                                                 {
-                                                     "name":  "dodozik/zaza_la_trans",
-                                                     "stream":  true
-                                                 }
-                                             ],
-                                  "category":  "record"
-                              },
-    "dodozik.zaza_la_lesbos_gourmande_de_minous":  {
-                                                       "sounds":  [
-                                                                      {
-                                                                          "name":  "dodozik/zaza_la_lesbos_gourmande_de_minous",
-                                                                          "stream":  true
-                                                                      }
-                                                                  ],
-                                                       "category":  "record"
-                                                   },
     "dodozik.jerem_l_eclat_ephemere":  {
                                            "sounds":  [
                                                           {
@@ -62,15 +35,78 @@
                                                       ],
                                            "category":  "record"
                                        },
-    "dodozik.zaza_la_chasseuse":  {
-                                      "sounds":  [
-                                                     {
-                                                         "name":  "dodozik/zaza_la_chasseuse",
-                                                         "stream":  true
-                                                     }
-                                                 ],
-                                      "category":  "record"
-                                  },
+    "dodozik.zaza_la_rageuse":  {
+                                    "sounds":  [
+                                                   {
+                                                       "name":  "dodozik/zaza_la_rageuse",
+                                                       "stream":  true
+                                                   }
+                                               ],
+                                    "category":  "record"
+                                },
+    "dodozik.matana_le_charmeur_de_chat":  {
+                                               "sounds":  [
+                                                              {
+                                                                  "name":  "dodozik/matana_le_charmeur_de_chat",
+                                                                  "stream":  true
+                                                              }
+                                                          ],
+                                               "category":  "record"
+                                           },
+    "dodozik.zaza_la_reine_de_citronia":  {
+                                              "sounds":  [
+                                                             {
+                                                                 "name":  "dodozik/zaza_la_reine_de_citronia",
+                                                                 "stream":  true
+                                                             }
+                                                         ],
+                                              "category":  "record"
+                                          },
+    "dodozik.le_heros_de_bordeaux":  {
+                                         "sounds":  [
+                                                        {
+                                                            "name":  "dodozik/le_heros_de_bordeaux",
+                                                            "stream":  true
+                                                        }
+                                                    ],
+                                         "category":  "record"
+                                     },
+    "dodozik.sky_l_homme_porte_disparu":  {
+                                              "sounds":  [
+                                                             {
+                                                                 "name":  "dodozik/sky_l_homme_porte_disparu",
+                                                                 "stream":  true
+                                                             }
+                                                         ],
+                                              "category":  "record"
+                                          },
+    "dodozik.zaza_la_cougar":  {
+                                   "sounds":  [
+                                                  {
+                                                      "name":  "dodozik/zaza_la_cougar",
+                                                      "stream":  true
+                                                  }
+                                              ],
+                                   "category":  "record"
+                               },
+    "dodozik.dodo_le_reporter_la_grotte_des_cristaux_vivants":  {
+                                                                    "sounds":  [
+                                                                                   {
+                                                                                       "name":  "dodozik/dodo_le_reporter_la_grotte_des_cristaux_vivants",
+                                                                                       "stream":  true
+                                                                                   }
+                                                                               ],
+                                                                    "category":  "record"
+                                                                },
+    "dodozik.endless_battle":  {
+                                   "sounds":  [
+                                                  {
+                                                      "name":  "dodozik/endless_battle",
+                                                      "stream":  true
+                                                  }
+                                              ],
+                                   "category":  "record"
+                               },
     "dodozik.dodolinotte":  {
                                 "sounds":  [
                                                {
@@ -80,15 +116,213 @@
                                            ],
                                 "category":  "record"
                             },
-    "dodozik.150_balles_pour_vierzon":  {
+    "dodozik.dodo_le_reporter_la_foret_des_secrets":  {
+                                                          "sounds":  [
+                                                                         {
+                                                                             "name":  "dodozik/dodo_le_reporter_la_foret_des_secrets",
+                                                                             "stream":  true
+                                                                         }
+                                                                     ],
+                                                          "category":  "record"
+                                                      },
+    "dodozik.la_zaza_du_quartier":  {
+                                        "sounds":  [
+                                                       {
+                                                           "name":  "dodozik/la_zaza_du_quartier",
+                                                           "stream":  true
+                                                       }
+                                                   ],
+                                        "category":  "record"
+                                    },
+    "dodozik.l_anniversaire_de_over":  {
+                                           "sounds":  [
+                                                          {
+                                                              "name":  "dodozik/l_anniversaire_de_over",
+                                                              "stream":  true
+                                                          }
+                                                      ],
+                                           "category":  "record"
+                                       },
+    "dodozik.chevalier_kakoukakou_v2":  {
                                             "sounds":  [
                                                            {
-                                                               "name":  "dodozik/150_balles_pour_vierzon",
+                                                               "name":  "dodozik/chevalier_kakoukakou_v2",
                                                                "stream":  true
                                                            }
                                                        ],
                                             "category":  "record"
                                         },
+    "dodozik.legende_la_legende":  {
+                                       "sounds":  [
+                                                      {
+                                                          "name":  "dodozik/legende_la_legende",
+                                                          "stream":  true
+                                                      }
+                                                  ],
+                                       "category":  "record"
+                                   },
+    "dodozik.le_combat_des_legendes":  {
+                                           "sounds":  [
+                                                          {
+                                                              "name":  "dodozik/le_combat_des_legendes",
+                                                              "stream":  true
+                                                          }
+                                                      ],
+                                           "category":  "record"
+                                       },
+    "dodozik.zaza_50_ans_de_legende":  {
+                                           "sounds":  [
+                                                          {
+                                                              "name":  "dodozik/zaza_50_ans_de_legende",
+                                                              "stream":  true
+                                                          }
+                                                      ],
+                                           "category":  "record"
+                                       },
+    "dodozik.zaza_la_sauvage":  {
+                                    "sounds":  [
+                                                   {
+                                                       "name":  "dodozik/zaza_la_sauvage",
+                                                       "stream":  true
+                                                   }
+                                               ],
+                                    "category":  "record"
+                                },
+    "dodozik.la_chatte_a_miss":  {
+                                     "sounds":  [
+                                                    {
+                                                        "name":  "dodozik/la_chatte_a_miss",
+                                                        "stream":  true
+                                                    }
+                                                ],
+                                     "category":  "record"
+                                 },
+    "dodozik.zaza_la_trans":  {
+                                  "sounds":  [
+                                                 {
+                                                     "name":  "dodozik/zaza_la_trans",
+                                                     "stream":  true
+                                                 }
+                                             ],
+                                  "category":  "record"
+                              },
+    "dodozik.nina_alias_bb_1":  {
+                                    "sounds":  [
+                                                   {
+                                                       "name":  "dodozik/nina_alias_bb_1",
+                                                       "stream":  true
+                                                   }
+                                               ],
+                                    "category":  "record"
+                                },
+    "dodozik.baptiste_le_chevalier_kakou":  {
+                                                "sounds":  [
+                                                               {
+                                                                   "name":  "dodozik/baptiste_le_chevalier_kakou",
+                                                                   "stream":  true
+                                                               }
+                                                           ],
+                                                "category":  "record"
+                                            },
+    "dodozik.zaza_la_lesbos_gourmande_de_minous":  {
+                                                       "sounds":  [
+                                                                      {
+                                                                          "name":  "dodozik/zaza_la_lesbos_gourmande_de_minous",
+                                                                          "stream":  true
+                                                                      }
+                                                                  ],
+                                                       "category":  "record"
+                                                   },
+    "dodozik.dodo_le_reporter_la_quete_continue":  {
+                                                       "sounds":  [
+                                                                      {
+                                                                          "name":  "dodozik/dodo_le_reporter_la_quete_continue",
+                                                                          "stream":  true
+                                                                      }
+                                                                  ],
+                                                       "category":  "record"
+                                                   },
+    "dodozik.fuire_dodo":  {
+                               "sounds":  [
+                                              {
+                                                  "name":  "dodozik/fuire_dodo",
+                                                  "stream":  true
+                                              }
+                                          ],
+                               "category":  "record"
+                           },
+    "dodozik.over_dans_la_cite":  {
+                                      "sounds":  [
+                                                     {
+                                                         "name":  "dodozik/over_dans_la_cite",
+                                                         "stream":  true
+                                                     }
+                                                 ],
+                                      "category":  "record"
+                                  },
+    "dodozik.hymne_tdgnv":  {
+                                "sounds":  [
+                                               {
+                                                   "name":  "dodozik/hymne_tdgnv",
+                                                   "stream":  true
+                                               }
+                                           ],
+                                "category":  "record"
+                            },
+    "dodozik.la_retraite_du_chevalier_kakou":  {
+                                                   "sounds":  [
+                                                                  {
+                                                                      "name":  "dodozik/la_retraite_du_chevalier_kakou",
+                                                                      "stream":  true
+                                                                  }
+                                                              ],
+                                                   "category":  "record"
+                                               },
+    "dodozik.mfv_mina":  {
+                             "sounds":  [
+                                            {
+                                                "name":  "dodozik/mfv_mina",
+                                                "stream":  true
+                                            }
+                                        ],
+                             "category":  "record"
+                         },
+    "dodozik.l_eveil_de_kyogai":  {
+                                      "sounds":  [
+                                                     {
+                                                         "name":  "dodozik/l_eveil_de_kyogai",
+                                                         "stream":  true
+                                                     }
+                                                 ],
+                                      "category":  "record"
+                                  },
+    "dodozik.matana_le_voleur":  {
+                                     "sounds":  [
+                                                    {
+                                                        "name":  "dodozik/matana_le_voleur",
+                                                        "stream":  true
+                                                    }
+                                                ],
+                                     "category":  "record"
+                                 },
+    "dodozik.ding_dong_kakou":  {
+                                    "sounds":  [
+                                                   {
+                                                       "name":  "dodozik/ding_dong_kakou",
+                                                       "stream":  true
+                                                   }
+                                               ],
+                                    "category":  "record"
+                                },
+    "dodozik.zaza_la_chasseuse":  {
+                                      "sounds":  [
+                                                     {
+                                                         "name":  "dodozik/zaza_la_chasseuse",
+                                                         "stream":  true
+                                                     }
+                                                 ],
+                                      "category":  "record"
+                                  },
     "dodozik.maxou_la_canaille":  {
                                       "sounds":  [
                                                      {
@@ -98,10 +332,19 @@
                                                  ],
                                       "category":  "record"
                                   },
-    "dodozik.dodo_le_reporter_l_odysee_des_mers":  {
+    "dodozik.l_anniversaire_de_minya":  {
+                                            "sounds":  [
+                                                           {
+                                                               "name":  "dodozik/l_anniversaire_de_minya",
+                                                               "stream":  true
+                                                           }
+                                                       ],
+                                            "category":  "record"
+                                        },
+    "dodozik.desmon_le_belge_l_ombre_de_la_cave":  {
                                                        "sounds":  [
                                                                       {
-                                                                          "name":  "dodozik/dodo_le_reporter_l_odysee_des_mers",
+                                                                          "name":  "dodozik/desmon_le_belge_l_ombre_de_la_cave",
                                                                           "stream":  true
                                                                       }
                                                                   ],
@@ -116,42 +359,6 @@
                                                       ],
                                            "category":  "record"
                                        },
-    "dodozik.zaza_la_chieuse_et_batou":  {
-                                             "sounds":  [
-                                                            {
-                                                                "name":  "dodozik/zaza_la_chieuse_et_batou",
-                                                                "stream":  true
-                                                            }
-                                                        ],
-                                             "category":  "record"
-                                         },
-    "dodozik.la_retraite_du_chevalier_kakou":  {
-                                                   "sounds":  [
-                                                                  {
-                                                                      "name":  "dodozik/la_retraite_du_chevalier_kakou",
-                                                                      "stream":  true
-                                                                  }
-                                                              ],
-                                                   "category":  "record"
-                                               },
-    "dodozik.fuire_dodo":  {
-                               "sounds":  [
-                                              {
-                                                  "name":  "dodozik/fuire_dodo",
-                                                  "stream":  true
-                                              }
-                                          ],
-                               "category":  "record"
-                           },
-    "dodozik.over_la_tigresse":  {
-                                     "sounds":  [
-                                                    {
-                                                        "name":  "dodozik/over_la_tigresse",
-                                                        "stream":  true
-                                                    }
-                                                ],
-                                     "category":  "record"
-                                 },
     "dodozik.zaza_la_femme_fatale":  {
                                          "sounds":  [
                                                         {
@@ -161,177 +368,6 @@
                                                     ],
                                          "category":  "record"
                                      },
-    "dodozik.dodo_le_reporter_la_foret_des_secrets":  {
-                                                          "sounds":  [
-                                                                         {
-                                                                             "name":  "dodozik/dodo_le_reporter_la_foret_des_secrets",
-                                                                             "stream":  true
-                                                                         }
-                                                                     ],
-                                                          "category":  "record"
-                                                      },
-    "dodozik.baptiste_le_chevalier_kakou":  {
-                                                "sounds":  [
-                                                               {
-                                                                   "name":  "dodozik/baptiste_le_chevalier_kakou",
-                                                                   "stream":  true
-                                                               }
-                                                           ],
-                                                "category":  "record"
-                                            },
-    "dodozik.voices_beyond_the_horizon":  {
-                                              "sounds":  [
-                                                             {
-                                                                 "name":  "dodozik/voices_beyond_the_horizon",
-                                                                 "stream":  true
-                                                             }
-                                                         ],
-                                              "category":  "record"
-                                          },
-    "dodozik.dodo_le_reporter_l_evasion_aerienne":  {
-                                                        "sounds":  [
-                                                                       {
-                                                                           "name":  "dodozik/dodo_le_reporter_l_evasion_aerienne",
-                                                                           "stream":  true
-                                                                       }
-                                                                   ],
-                                                        "category":  "record"
-                                                    },
-    "dodozik.matana_le_voleur":  {
-                                     "sounds":  [
-                                                    {
-                                                        "name":  "dodozik/matana_le_voleur",
-                                                        "stream":  true
-                                                    }
-                                                ],
-                                     "category":  "record"
-                                 },
-    "dodozik.la_chatte_a_miss":  {
-                                     "sounds":  [
-                                                    {
-                                                        "name":  "dodozik/la_chatte_a_miss",
-                                                        "stream":  true
-                                                    }
-                                                ],
-                                     "category":  "record"
-                                 },
-    "dodozik.zaza_la_reine_de_citronia":  {
-                                              "sounds":  [
-                                                             {
-                                                                 "name":  "dodozik/zaza_la_reine_de_citronia",
-                                                                 "stream":  true
-                                                             }
-                                                         ],
-                                              "category":  "record"
-                                          },
-    "dodozik.zaza_la_chieuse":  {
-                                    "sounds":  [
-                                                   {
-                                                       "name":  "dodozik/zaza_la_chieuse",
-                                                       "stream":  true
-                                                   }
-                                               ],
-                                    "category":  "record"
-                                },
-    "dodozik.le_heros_de_bordeaux":  {
-                                         "sounds":  [
-                                                        {
-                                                            "name":  "dodozik/le_heros_de_bordeaux",
-                                                            "stream":  true
-                                                        }
-                                                    ],
-                                         "category":  "record"
-                                     },
-    "dodozik.matana_le_matou":  {
-                                    "sounds":  [
-                                                   {
-                                                       "name":  "dodozik/matana_le_matou",
-                                                       "stream":  true
-                                                   }
-                                               ],
-                                    "category":  "record"
-                                },
-    "dodozik.over_dans_la_cite":  {
-                                      "sounds":  [
-                                                     {
-                                                         "name":  "dodozik/over_dans_la_cite",
-                                                         "stream":  true
-                                                     }
-                                                 ],
-                                      "category":  "record"
-                                  },
-    "dodozik.zaza_la_cougar":  {
-                                   "sounds":  [
-                                                  {
-                                                      "name":  "dodozik/zaza_la_cougar",
-                                                      "stream":  true
-                                                  }
-                                              ],
-                                   "category":  "record"
-                               },
-    "dodozik.legende_la_legende":  {
-                                       "sounds":  [
-                                                      {
-                                                          "name":  "dodozik/legende_la_legende",
-                                                          "stream":  true
-                                                      }
-                                                  ],
-                                       "category":  "record"
-                                   },
-    "dodozik.matana_le_charmeur_de_chat":  {
-                                               "sounds":  [
-                                                              {
-                                                                  "name":  "dodozik/matana_le_charmeur_de_chat",
-                                                                  "stream":  true
-                                                              }
-                                                          ],
-                                               "category":  "record"
-                                           },
-    "dodozik.la_legende_du_chevalier_kakou_kakou_v3":  {
-                                                           "sounds":  [
-                                                                          {
-                                                                              "name":  "dodozik/la_legende_du_chevalier_kakou_kakou_v3",
-                                                                              "stream":  true
-                                                                          }
-                                                                      ],
-                                                           "category":  "record"
-                                                       },
-    "dodozik.zaza_50_ans_de_legende":  {
-                                           "sounds":  [
-                                                          {
-                                                              "name":  "dodozik/zaza_50_ans_de_legende",
-                                                              "stream":  true
-                                                          }
-                                                      ],
-                                           "category":  "record"
-                                       },
-    "dodozik.alban_l_enfant_de_l_eglise":  {
-                                               "sounds":  [
-                                                              {
-                                                                  "name":  "dodozik/alban_l_enfant_de_l_eglise",
-                                                                  "stream":  true
-                                                              }
-                                                          ],
-                                               "category":  "record"
-                                           },
-    "dodozik.dodo_le_reporter_le_train_des_destinees":  {
-                                                            "sounds":  [
-                                                                           {
-                                                                               "name":  "dodozik/dodo_le_reporter_le_train_des_destinees",
-                                                                               "stream":  true
-                                                                           }
-                                                                       ],
-                                                            "category":  "record"
-                                                        },
-    "dodozik.desmeon_le_filou":  {
-                                     "sounds":  [
-                                                    {
-                                                        "name":  "dodozik/desmeon_le_filou",
-                                                        "stream":  true
-                                                    }
-                                                ],
-                                     "category":  "record"
-                                 },
     "dodozik.dark_mirador":  {
                                  "sounds":  [
                                                 {
@@ -341,69 +377,33 @@
                                             ],
                                  "category":  "record"
                              },
-    "dodozik.dodo_le_reporter_l_aventure_epique":  {
-                                                       "sounds":  [
-                                                                      {
-                                                                          "name":  "dodozik/dodo_le_reporter_l_aventure_epique",
-                                                                          "stream":  true
-                                                                      }
-                                                                  ],
-                                                       "category":  "record"
-                                                   },
-    "dodozik.hollaph_le_grand_fou":  {
-                                         "sounds":  [
-                                                        {
-                                                            "name":  "dodozik/hollaph_le_grand_fou",
-                                                            "stream":  true
-                                                        }
-                                                    ],
-                                         "category":  "record"
-                                     },
-    "dodozik.zaza_la_rageuse":  {
-                                    "sounds":  [
-                                                   {
-                                                       "name":  "dodozik/zaza_la_rageuse",
-                                                       "stream":  true
-                                                   }
-                                               ],
-                                    "category":  "record"
-                                },
-    "dodozik.hymne_tdgnv":  {
-                                "sounds":  [
-                                               {
-                                                   "name":  "dodozik/hymne_tdgnv",
-                                                   "stream":  true
-                                               }
-                                           ],
-                                "category":  "record"
-                            },
-    "dodozik.nina_alias_bb_1":  {
-                                    "sounds":  [
-                                                   {
-                                                       "name":  "dodozik/nina_alias_bb_1",
-                                                       "stream":  true
-                                                   }
-                                               ],
-                                    "category":  "record"
-                                },
-    "dodozik.endless_battle":  {
-                                   "sounds":  [
-                                                  {
-                                                      "name":  "dodozik/endless_battle",
-                                                      "stream":  true
-                                                  }
-                                              ],
-                                   "category":  "record"
-                               },
-    "dodozik.le_chevalier_kakou_kakou_et_l_empire_des_sables":  {
-                                                                    "sounds":  [
-                                                                                   {
-                                                                                       "name":  "dodozik/le_chevalier_kakou_kakou_et_l_empire_des_sables",
-                                                                                       "stream":  true
-                                                                                   }
-                                                                               ],
-                                                                    "category":  "record"
-                                                                },
+    "dodozik.zaza_la_chieuse_et_batou":  {
+                                             "sounds":  [
+                                                            {
+                                                                "name":  "dodozik/zaza_la_chieuse_et_batou",
+                                                                "stream":  true
+                                                            }
+                                                        ],
+                                             "category":  "record"
+                                         },
+    "dodozik.dodo_le_reporter_le_train_des_destinees":  {
+                                                            "sounds":  [
+                                                                           {
+                                                                               "name":  "dodozik/dodo_le_reporter_le_train_des_destinees",
+                                                                               "stream":  true
+                                                                           }
+                                                                       ],
+                                                            "category":  "record"
+                                                        },
+    "dodozik.la_zaza_de_vierzon":  {
+                                       "sounds":  [
+                                                      {
+                                                          "name":  "dodozik/la_zaza_de_vierzon",
+                                                          "stream":  true
+                                                      }
+                                                  ],
+                                       "category":  "record"
+                                   },
     "dodozik.alban_le_gars_de_versailles":  {
                                                 "sounds":  [
                                                                {
@@ -413,60 +413,6 @@
                                                            ],
                                                 "category":  "record"
                                             },
-    "dodozik.le_combat_des_legendes":  {
-                                           "sounds":  [
-                                                          {
-                                                              "name":  "dodozik/le_combat_des_legendes",
-                                                              "stream":  true
-                                                          }
-                                                      ],
-                                           "category":  "record"
-                                       },
-    "dodozik.dodo_le_reporter_la_grotte_des_cristaux_vivants":  {
-                                                                    "sounds":  [
-                                                                                   {
-                                                                                       "name":  "dodozik/dodo_le_reporter_la_grotte_des_cristaux_vivants",
-                                                                                       "stream":  true
-                                                                                   }
-                                                                               ],
-                                                                    "category":  "record"
-                                                                },
-    "dodozik.sky_l_homme_porte_disparu":  {
-                                              "sounds":  [
-                                                             {
-                                                                 "name":  "dodozik/sky_l_homme_porte_disparu",
-                                                                 "stream":  true
-                                                             }
-                                                         ],
-                                              "category":  "record"
-                                          },
-    "dodozik.la_zaza_du_quartier":  {
-                                        "sounds":  [
-                                                       {
-                                                           "name":  "dodozik/la_zaza_du_quartier",
-                                                           "stream":  true
-                                                       }
-                                                   ],
-                                        "category":  "record"
-                                    },
-    "dodozik.mfv_mina":  {
-                             "sounds":  [
-                                            {
-                                                "name":  "dodozik/mfv_mina",
-                                                "stream":  true
-                                            }
-                                        ],
-                             "category":  "record"
-                         },
-    "dodozik.zaza_la_sauvage":  {
-                                    "sounds":  [
-                                                   {
-                                                       "name":  "dodozik/zaza_la_sauvage",
-                                                       "stream":  true
-                                                   }
-                                               ],
-                                    "category":  "record"
-                                },
     "dodozik.zaza_la_voleuse":  {
                                     "sounds":  [
                                                    {
@@ -476,10 +422,73 @@
                                                ],
                                     "category":  "record"
                                 },
-    "dodozik.dodo_le_reporter_la_quete_continue":  {
+    "dodozik.150_balles_pour_vierzon":  {
+                                            "sounds":  [
+                                                           {
+                                                               "name":  "dodozik/150_balles_pour_vierzon",
+                                                               "stream":  true
+                                                           }
+                                                       ],
+                                            "category":  "record"
+                                        },
+    "dodozik.l_incroyable_aventure_de_matana_le_rat":  {
+                                                           "sounds":  [
+                                                                          {
+                                                                              "name":  "dodozik/l_incroyable_aventure_de_matana_le_rat",
+                                                                              "stream":  true
+                                                                          }
+                                                                      ],
+                                                           "category":  "record"
+                                                       },
+    "dodozik.minia_et_sa_meule":  {
+                                      "sounds":  [
+                                                     {
+                                                         "name":  "dodozik/minia_et_sa_meule",
+                                                         "stream":  true
+                                                     }
+                                                 ],
+                                      "category":  "record"
+                                  },
+    "dodozik.la_revanche_de_mika":  {
+                                        "sounds":  [
+                                                       {
+                                                           "name":  "dodozik/la_revanche_de_mika",
+                                                           "stream":  true
+                                                       }
+                                                   ],
+                                        "category":  "record"
+                                    },
+    "dodozik.matana_le_matou":  {
+                                    "sounds":  [
+                                                   {
+                                                       "name":  "dodozik/matana_le_matou",
+                                                       "stream":  true
+                                                   }
+                                               ],
+                                    "category":  "record"
+                                },
+    "dodozik.desmeon_le_filou":  {
+                                     "sounds":  [
+                                                    {
+                                                        "name":  "dodozik/desmeon_le_filou",
+                                                        "stream":  true
+                                                    }
+                                                ],
+                                     "category":  "record"
+                                 },
+    "dodozik.la_legende_du_chevalier_kakou_kakou_v3":  {
+                                                           "sounds":  [
+                                                                          {
+                                                                              "name":  "dodozik/la_legende_du_chevalier_kakou_kakou_v3",
+                                                                              "stream":  true
+                                                                          }
+                                                                      ],
+                                                           "category":  "record"
+                                                       },
+    "dodozik.dodo_le_reporter_l_odysee_des_mers":  {
                                                        "sounds":  [
                                                                       {
-                                                                          "name":  "dodozik/dodo_le_reporter_la_quete_continue",
+                                                                          "name":  "dodozik/dodo_le_reporter_l_odysee_des_mers",
                                                                           "stream":  true
                                                                       }
                                                                   ],
@@ -494,13 +503,94 @@
                                                                   ],
                                                        "category":  "record"
                                                    },
-    "dodozik.alban_le_gitan":  {
-                                   "sounds":  [
-                                                  {
-                                                      "name":  "dodozik/alban_le_gitan",
-                                                      "stream":  true
-                                                  }
-                                              ],
-                                   "category":  "record"
-                               }
+    "dodozik.le_chevalier_kakou_kakou_et_l_empire_des_sables":  {
+                                                                    "sounds":  [
+                                                                                   {
+                                                                                       "name":  "dodozik/le_chevalier_kakou_kakou_et_l_empire_des_sables",
+                                                                                       "stream":  true
+                                                                                   }
+                                                                               ],
+                                                                    "category":  "record"
+                                                                },
+    "dodozik.minia_vs_sfr_la_guerre_des_fils":  {
+                                                    "sounds":  [
+                                                                   {
+                                                                       "name":  "dodozik/minia_vs_sfr_la_guerre_des_fils",
+                                                                       "stream":  true
+                                                                   }
+                                                               ],
+                                                    "category":  "record"
+                                                },
+    "dodozik.desmon_l_ombre_charmeuse":  {
+                                             "sounds":  [
+                                                            {
+                                                                "name":  "dodozik/desmon_l_ombre_charmeuse",
+                                                                "stream":  true
+                                                            }
+                                                        ],
+                                             "category":  "record"
+                                         },
+    "dodozik.dodo_le_reporter_l_evasion_aerienne":  {
+                                                        "sounds":  [
+                                                                       {
+                                                                           "name":  "dodozik/dodo_le_reporter_l_evasion_aerienne",
+                                                                           "stream":  true
+                                                                       }
+                                                                   ],
+                                                        "category":  "record"
+                                                    },
+    "dodozik.les_quenottes_de_minia":  {
+                                           "sounds":  [
+                                                          {
+                                                              "name":  "dodozik/les_quenottes_de_minia",
+                                                              "stream":  true
+                                                          }
+                                                      ],
+                                           "category":  "record"
+                                       },
+    "dodozik.zaza_la_chieuse":  {
+                                    "sounds":  [
+                                                   {
+                                                       "name":  "dodozik/zaza_la_chieuse",
+                                                       "stream":  true
+                                                   }
+                                               ],
+                                    "category":  "record"
+                                },
+    "dodozik.voices_beyond_the_horizon":  {
+                                              "sounds":  [
+                                                             {
+                                                                 "name":  "dodozik/voices_beyond_the_horizon",
+                                                                 "stream":  true
+                                                             }
+                                                         ],
+                                              "category":  "record"
+                                          },
+    "dodozik.hollaph_le_grand_fou":  {
+                                         "sounds":  [
+                                                        {
+                                                            "name":  "dodozik/hollaph_le_grand_fou",
+                                                            "stream":  true
+                                                        }
+                                                    ],
+                                         "category":  "record"
+                                     },
+    "dodozik.dodo_le_reporter_l_aventure_epique":  {
+                                                       "sounds":  [
+                                                                      {
+                                                                          "name":  "dodozik/dodo_le_reporter_l_aventure_epique",
+                                                                          "stream":  true
+                                                                      }
+                                                                  ],
+                                                       "category":  "record"
+                                                   },
+    "dodozik.alban_l_enfant_de_l_eglise":  {
+                                               "sounds":  [
+                                                              {
+                                                                  "name":  "dodozik/alban_l_enfant_de_l_eglise",
+                                                                  "stream":  true
+                                                              }
+                                                          ],
+                                               "category":  "record"
+                                           }
 }
